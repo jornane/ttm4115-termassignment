@@ -8,6 +8,9 @@
     type="block" 
     >
     <required>
+        <package name="com.bitreactive.library.mqtt"/>
+        <package name="com.bitreactive.library.mqtt.mqtt.MQTT"/>
+        <package name="no.ntnu.item.ttm4115.termassignment.ttm4115mqtt2014"/>
         <block name="c0" uuid="_AB69sObWEeG9SpMqxrlJPg"/>
     </required>
 </block>

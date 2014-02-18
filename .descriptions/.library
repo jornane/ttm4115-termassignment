@@ -3,6 +3,7 @@
     title="no.ntnu.item.ttm4115.termassignment" 
     version="1.0.0" 
     uuid="_K7p9UJNHEeOhlfVj5NGtGA" 
+    purpose="Blocks to use in the TTM4115 term assignment. Requires Reactive Blocks and a student license." 
     >
     <dependencies>
         <dependency name="com.bitreactive.library.mqtt" uuid="_iVDkMOJLEeGulKFN7xtCsw" version="1.5.0"/>
