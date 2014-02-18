@@ -3,6 +3,7 @@
     name="MessageCreator" 
     author="Y&#248;rn de Jong &lt;git@yorn.priv.no&gt;" 
     provider="NTNU" 
+    purpose="Create message objects without Java code" 
     uuid="_VVwlcJi9EeOs_Y53SE1QKA" 
     status="experimental" 
     type="block" 

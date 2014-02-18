@@ -3,6 +3,7 @@
     name="MQTTCommunication" 
     author="Y&#248;rn de Jong &lt;git@yorn.priv.no&gt;" 
     provider="NTNU" 
+    purpose="MQTT block that takes all variables through instance parameters" 
     uuid="_OUQ34pNHEeOhlfVj5NGtGA" 
     status="experimental" 
     type="block" 

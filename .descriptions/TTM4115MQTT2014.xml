@@ -3,6 +3,7 @@
     name="TTM4115MQTT2014" 
     author="Y&#248;rn de Jong &lt;git@yorn.priv.no&gt;" 
     provider="NTNU" 
+    purpose="Communicate conflict-free with different blocks, by group number" 
     uuid="_p8wmAJi6EeOs_Y53SE1QKA" 
     status="experimental" 
     type="block" 
