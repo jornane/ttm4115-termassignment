@@ -13,7 +13,6 @@
           <transition xmi:id="_JJDywJNREeOhlfVj5NGtGA" name=" / disconnected" source="_-4-qEZNQEeOhlfVj5NGtGA" target="_JJEZ0JNREeOhlfVj5NGtGA"/>
           <transition xmi:id="_TelcIJNREeOhlfVj5NGtGA" name=" / publishError" source="_89UOoZNQEeOhlfVj5NGtGA" target="_89UOoZNQEeOhlfVj5NGtGA"/>
           <transition xmi:id="_XC_-EJNREeOhlfVj5NGtGA" name=" / message" source="_89UOoZNQEeOhlfVj5NGtGA" target="_89UOoZNQEeOhlfVj5NGtGA"/>
-          <transition xmi:id="_bHE3gJNREeOhlfVj5NGtGA" name="publish / message" source="_89UOoZNQEeOhlfVj5NGtGA" target="_89UOoZNQEeOhlfVj5NGtGA"/>
           <transition xmi:id="_es9ZEJNREeOhlfVj5NGtGA" name="publish / " source="_89UOoZNQEeOhlfVj5NGtGA" target="_89UOoZNQEeOhlfVj5NGtGA"/>
           <transition xmi:id="_gUafEJNREeOhlfVj5NGtGA" name=" / publishedOk" source="_89UOoZNQEeOhlfVj5NGtGA" target="_89UOoZNQEeOhlfVj5NGtGA"/>
           <transition xmi:id="_oB0PoJNREeOhlfVj5NGtGA" name="disconnect / " source="_89UOoZNQEeOhlfVj5NGtGA" target="_oB02sZNREeOhlfVj5NGtGA"/>
@@ -267,7 +266,6 @@
   <arctis:event xmi:id="_JJDywZNREeOhlfVj5NGtGA" base_Transition="_JJDywJNREeOhlfVj5NGtGA" effects="_N5-ZgJNQEeOhlfVj5NGtGA"/>
   <arctis:event xmi:id="_TemDMJNREeOhlfVj5NGtGA" base_Transition="_TelcIJNREeOhlfVj5NGtGA" effects="_Asj9AJNQEeOhlfVj5NGtGA"/>
   <arctis:event xmi:id="_XC_-EZNREeOhlfVj5NGtGA" base_Transition="_XC_-EJNREeOhlfVj5NGtGA" effects="_92u_YJNPEeOhlfVj5NGtGA"/>
-  <arctis:event xmi:id="_bHFekJNREeOhlfVj5NGtGA" base_Transition="_bHE3gJNREeOhlfVj5NGtGA" triggers="_7FOhEJNPEeOhlfVj5NGtGA" effects="_92u_YJNPEeOhlfVj5NGtGA"/>
   <arctis:event xmi:id="_es-AIJNREeOhlfVj5NGtGA" base_Transition="_es9ZEJNREeOhlfVj5NGtGA" triggers="_7FOhEJNPEeOhlfVj5NGtGA"/>
   <arctis:event xmi:id="_gUafEZNREeOhlfVj5NGtGA" base_Transition="_gUafEJNREeOhlfVj5NGtGA" effects="_Cv_0YJNQEeOhlfVj5NGtGA"/>
   <arctis:event xmi:id="_oB02sJNREeOhlfVj5NGtGA" base_Transition="_oB0PoJNREeOhlfVj5NGtGA" triggers="_5L8EMJNPEeOhlfVj5NGtGA"/>

@@ -5,7 +5,6 @@
       <ownedBehavior xmi:type="uml:StateMachine" xmi:id="_p_S8oZi6EeOs_Y53SE1QKA" name="TTM4115MQTT2014">
         <region xmi:id="_p_TjsZi6EeOs_Y53SE1QKA" name="&lt;region>">
           <transition xmi:id="_I_Gx0Ji9EeOs_Y53SE1QKA" name=" / disconnected" source="_I_HY4Zi9EeOs_Y53SE1QKA" target="_I_HY4pi9EeOs_Y53SE1QKA"/>
-          <transition xmi:id="_I_H_8Ji9EeOs_Y53SE1QKA" name="publish / message" source="_I_InAZi9EeOs_Y53SE1QKA" target="_I_InAZi9EeOs_Y53SE1QKA"/>
           <transition xmi:id="_I_JOEJi9EeOs_Y53SE1QKA" name=" / startFailed" source="_I_JOEpi9EeOs_Y53SE1QKA" target="_I_HY4pi9EeOs_Y53SE1QKA"/>
           <transition xmi:id="_I_J1IJi9EeOs_Y53SE1QKA" name=" / message" source="_I_InAZi9EeOs_Y53SE1QKA" target="_I_InAZi9EeOs_Y53SE1QKA"/>
           <transition xmi:id="_I_KcMJi9EeOs_Y53SE1QKA" name="publish / " source="_I_InAZi9EeOs_Y53SE1QKA" target="_I_InAZi9EeOs_Y53SE1QKA"/>
@@ -236,7 +235,6 @@
   <graphics:Shape xmi:id="_uUGu0Ji8EeOs_Y53SE1QKA" x="864" y="360" base_Element="_uUDrgJi8EeOs_Y53SE1QKA" orientation="east"/>
   <graphics:Shape xmi:id="_v4eroJi8EeOs_Y53SE1QKA" x="864" y="396" base_Element="_v4boUJi8EeOs_Y53SE1QKA" orientation="east"/>
   <arctis:event xmi:id="_I_HY4Ji9EeOs_Y53SE1QKA" base_Transition="_I_Gx0Ji9EeOs_Y53SE1QKA" effects="_hv2kEJi8EeOs_Y53SE1QKA"/>
-  <arctis:event xmi:id="_I_InAJi9EeOs_Y53SE1QKA" base_Transition="_I_H_8Ji9EeOs_Y53SE1QKA" triggers="_RGHxsJi8EeOs_Y53SE1QKA" effects="_rkMzAJi8EeOs_Y53SE1QKA"/>
   <arctis:event xmi:id="_I_JOEZi9EeOs_Y53SE1QKA" base_Transition="_I_JOEJi9EeOs_Y53SE1QKA" effects="_ksJWEJi8EeOs_Y53SE1QKA"/>
   <arctis:event xmi:id="_I_J1IZi9EeOs_Y53SE1QKA" base_Transition="_I_J1IJi9EeOs_Y53SE1QKA" effects="_rkMzAJi8EeOs_Y53SE1QKA"/>
   <arctis:event xmi:id="_I_KcMZi9EeOs_Y53SE1QKA" base_Transition="_I_KcMJi9EeOs_Y53SE1QKA" triggers="_RGHxsJi8EeOs_Y53SE1QKA"/>
