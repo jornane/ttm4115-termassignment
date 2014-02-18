@@ -190,7 +190,7 @@
       <appliedProfile href="pathmap://RAMSES_GRAPHIC_PROFILES/no.ntnu.item.ramses.graphicprofile.uml#_UEANMUVlEduH9aQE_pc66w"/>
     </profileApplication>
   </uml:Package>
-  <graphics:Shape xmi:id="_p_SVkJi6EeOs_Y53SE1QKA" x="180" y="55" width="613" height="54" base_Element="_p8wmAJi6EeOs_Y53SE1QKA"/>
+  <graphics:Shape xmi:id="_p_SVkJi6EeOs_Y53SE1QKA" x="126" y="54" width="739" height="55" base_Element="_p8wmAJi6EeOs_Y53SE1QKA"/>
   <graphics:Shape xmi:id="_p_S8oJi6EeOs_Y53SE1QKA" x="126" y="108" width="739" height="415" base_Element="_p836wJi6EeOs_Y53SE1QKA"/>
   <arctis:esm xmi:id="_p_TjsJi6EeOs_Y53SE1QKA" base_StateMachine="_p_S8oZi6EeOs_Y53SE1QKA"/>
   <arctis:esm xmi:id="_q-qu8Ji6EeOs_Y53SE1QKA" base_StateMachine="_q9MvUpi6EeOs_Y53SE1QKA"/>
