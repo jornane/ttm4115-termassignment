@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library
+    title="no.ntnu.item.ttm4115.termassignment" 
+    version="1.0.0" 
+    uuid="_K7p9UJNHEeOhlfVj5NGtGA" 
+    >
+    <dependencies>
+        <dependency name="com.bitreactive.library.mqtt" uuid="_iVDkMOJLEeGulKFN7xtCsw" version="1.5.0"/>
+    </dependencies>
+</library>

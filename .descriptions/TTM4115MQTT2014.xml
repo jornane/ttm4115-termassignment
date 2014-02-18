@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="TTM4115MQTT2014" 
+    author="Y&#248;rn de Jong &lt;git@yorn.priv.no&gt;" 
+    provider="NTNU" 
+    uuid="_p8wmAJi6EeOs_Y53SE1QKA" 
+    status="experimental" 
+    type="block" 
+    >
+    <required>
+        <block name="c0" uuid="_AB69sObWEeG9SpMqxrlJPg"/>
+    </required>
+</block>

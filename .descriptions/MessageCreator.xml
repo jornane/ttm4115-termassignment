@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="MessageCreator" 
+    author="Y&#248;rn de Jong &lt;git@yorn.priv.no&gt;" 
+    provider="NTNU" 
+    uuid="_VVwlcJi9EeOs_Y53SE1QKA" 
+    status="experimental" 
+    type="block" 
+    >
+</block>
